@@ -1,0 +1,24 @@
+{
+  "name": "djs-premium",
+  "version": "1.0.0",
+  "main": "dist/Premium.js",
+  "keywords": [
+    "discord",
+    "premium",
+    "manager"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RandomZeleff/djs-premium.git"
+  },
+  "author": "zeleff_",
+  "license": "MIT",
+  "description": "A discord package for manage premium.",
+  "dependencies": {
+    "mongoose": "^8.6.0",
+    "node-cache": "^5.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.1"
+  }
+}
